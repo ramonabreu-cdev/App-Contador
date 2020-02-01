@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-A new Flutter application.
+Aplicativo usando a Tecnologia Flutter e Dart
 
 ## Getting Started
 
